@@ -1,0 +1,9 @@
+Required Files
+
+Make sure you have these image files in the same directory as the Python script:
+
+red.gif - Red car sprite
+blue.gif - Blue car sprite
+race.gif - Racing track background
+red_finish.gif - Red car victory screen
+blue_finish.gif - Blue car victory screen
